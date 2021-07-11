@@ -1,1 +1,1 @@
-# sidereal2d-engine
+# Sidereal 2D Engine
